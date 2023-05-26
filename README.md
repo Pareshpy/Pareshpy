@@ -21,7 +21,7 @@
 <a href="https://twitter.com/pareshexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pareshexe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pareshnathnandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pareshnathnandi" height="30" width="40" /></a>
 <a href="https://fb.com/pareshnath.nandi.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pareshnath.nandi.94" height="30" width="40" /></a>
-<a href="https://instagram.com/@paresh.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@paresh.exe" height="30" width="40" /></a>
+<a href="https://instagram.com/paresh.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paresh.exe" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pareshnathnandidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pareshnathnandidev" height="30" width="40" /></a>
 </p>
 
