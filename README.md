@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pareshexe" target="blank"><img src="https://img.shields.io/twitter/follow/pareshexe?logo=twitter&style=for-the-badge" alt="pareshexe" /></a> </p>
 
-- 🔭 I’m currently Working on **little bit contributing on opensource projects**
+- 🔭 Right now i'm a freshers and doing **little bit contributions on OpenSource Projects**
 
 - 🌱 I’m currently learning **Web Dev, Flutter, JAVA, django**
 
