@@ -1,6 +1,6 @@
 ![Paresh nath Nandi  twitter cover page](https://github.com/Pareshpy/Pareshpy/assets/93391884/9b592785-254b-4715-997c-50ccfa36141f)
 <h1 align="center">Hi 👋, I'm Paresh</h1>
-<h3 align="center">I'm 2nd year Computer Science Student</h3>
+<h3 align="center">I'm 3rd year Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pareshpy&label=Profile%20views&color=0e75b6&style=flat" alt="pareshpy" /> </p>
 
